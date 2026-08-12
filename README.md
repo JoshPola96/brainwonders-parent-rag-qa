@@ -23,11 +23,18 @@ This repository hosts the code for an intelligent AI-powered assistant designed 
 
 ---
 
-## Running it
+## Live Demo
 
-Clone and run locally - see [Setup](#-setup--installation) below. There is no
-hosted demo: free-tier hosting sleeps, expires and changes without notice, and a
-dead link is worse than none.
+Experience the Brainwonders Parent Assistant live on Render:
+
+[**Brainwonders Parent Assistant**](https://brainwonders-parent-rag-qa.onrender.com)
+
+> [!NOTE]
+> **The hosted demo may not respond.** It runs on free-tier hosting that sleeps,
+> expires and gets reclaimed without notice, and the app can return an HTTP 200
+> shell while failing to start behind it. The model it targets has also been
+> retired since. The link is kept for reference, not as a working product —
+> the repository is the deliverable.
 
 ## ✨ Features
 
