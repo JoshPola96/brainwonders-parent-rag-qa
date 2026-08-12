@@ -4,6 +4,14 @@
 >
 > **Committed on purpose:** the prebuilt `chroma_db/` index ships with the repo so the assistant answers on first run, with no ingestion step required.
 
+> [!NOTE]
+> **Built 2025. The ecosystem has moved since.**
+> Dependencies here are unpinned, so a clean `pip install` today resolves to
+> versions that did not exist when this was written and pandas 3.0, numpy 2.5 plus major releases of torch, ultralytics and transformers have all landed since. Expect install or
+> runtime breakage on a fresh environment. What is on offer is the engineering
+> approach and the decisions behind it, not a guaranteed-green build.
+> Happy to bring it current if that would be useful — just ask.
+
 ## Empowering Parents with Instant Answers on Brainwonders Programs
 
 This repository hosts the code for an intelligent AI-powered assistant designed to help parents quickly find information about **Brainwonders' career counselling programs, pricing, and related services**. Leveraging advanced Retrieval-Augmented Generation (RAG) techniques, this assistant provides accurate, concise, and context-aware responses based on a curated knowledge base of Brainwonders' offerings.
