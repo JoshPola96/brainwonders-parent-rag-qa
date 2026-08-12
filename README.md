@@ -1,5 +1,9 @@
 # 🧠 Brainwonders Parent Assistant
 
+> **Scope** · Timeboxed technical assessment (a few days). Built to a brief under a fixed clock — scope decisions were deliberate.
+>
+> **Committed on purpose:** the prebuilt `chroma_db/` index ships with the repo so the assistant answers on first run, with no ingestion step required.
+
 ## Empowering Parents with Instant Answers on Brainwonders Programs
 
 This repository hosts the code for an intelligent AI-powered assistant designed to help parents quickly find information about **Brainwonders' career counselling programs, pricing, and related services**. Leveraging advanced Retrieval-Augmented Generation (RAG) techniques, this assistant provides accurate, concise, and context-aware responses based on a curated knowledge base of Brainwonders' offerings.
