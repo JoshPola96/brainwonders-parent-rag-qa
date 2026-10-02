@@ -1,3 +1,4 @@
+# .gitignore
 # Python specific
 __pycache__/
 *.pyc
@@ -14,3 +15,8 @@ venv/
 # Operating System Files
 .DS_Store
 Thumbs.db
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+*.log
+chroma_db/
